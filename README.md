@@ -162,19 +162,3 @@ Disk usage is normal
 ```
 
 ---
-
-## 🛡️ Recommended `.gitignore`
-
-Before pushing to GitHub, you may want to prevent committing active runtime logs or credentials:
-
-```gitignore
-logs/*.log*
-!logs/.gitkeep
-```
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-# linux-server-monitor
